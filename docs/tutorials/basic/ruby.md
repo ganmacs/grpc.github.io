@@ -405,5 +405,5 @@ Run the client (in a different terminal):
 
 ```
 $ # from examples/ruby
-$ bundle exec route_guide/route_guide_client.rb ../python/route_guide/route_guide_db.json
+$ bundle exec route_guide/route_guide_client.rb ../../python/route_guide/route_guide_db.json
 ```
